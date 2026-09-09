@@ -4008,12 +4008,6 @@ packages:
     engines: {node: '>=6'}
     dev: true
 
-  registry.npmjs.org/ansi-regex@5.0.1:
-    resolution: {integrity: sha1-CCyyyJyf6GWaMRpTvWpNxTAdswQ=, registry: https://registry.npmjs.org/, tarball: https://registry.npmjs.org/ansi-regex/-/ansi-regex-5.0.1.tgz}
-    name: ansi-regex
-    version: 5.0.1
-    engines: {node: '>=8'}
-    dev: true
 
   registry.npmjs.org/ansi-styles@2.2.1:
     resolution: {integrity: sha1-tDLdM1i2NM914eRmQ2gkBTPB3b4=, registry: https://registry.npmjs.org/, tarball: https://registry.npmjs.org/ansi-styles/-/ansi-styles-2.2.1.tgz}
@@ -4031,14 +4025,6 @@ packages:
       color-convert: registry.npmjs.org/color-convert@1.9.3
     dev: true
 
-  registry.npmjs.org/ansi-styles@4.3.0:
-    resolution: {integrity: sha1-7dgDYornHATIWuegkG7a00tkiTc=, registry: https://registry.npmjs.org/, tarball: https://registry.npmjs.org/ansi-styles/-/ansi-styles-4.3.0.tgz}
-    name: ansi-styles
-    version: 4.3.0
-    engines: {node: '>=8'}
-    dependencies:
-      color-convert: registry.npmjs.org/color-convert@2.0.1
-    dev: true
 
   registry.npmjs.org/anymatch@2.0.0(supports-color@6.1.0):
     resolution: {integrity: sha1-vLJLTzeTTZqnrBe0ra+J58du8us=, registry: https://registry.npmjs.org/, tarball: https://registry.npmjs.org/anymatch/-/anymatch-2.0.0.tgz}
@@ -5886,12 +5872,6 @@ packages:
       estraverse: registry.npmmirror.com/estraverse@5.3.0
     dev: true
 
-  registry.npmjs.org/esutils@2.0.3:
-    resolution: {integrity: sha1-dNLrTeC42hKTcRkQ1Qd1ubcQ72Q=, registry: https://registry.npmjs.org/, tarball: https://registry.npmjs.org/esutils/-/esutils-2.0.3.tgz}
-    name: esutils
-    version: 2.0.3
-    engines: {node: '>=0.10.0'}
-    dev: true
 
   registry.npmjs.org/etag@1.8.1:
     resolution: {integrity: sha1-Qa4u62XvpiJorr/qg6x9eSmbCIc=, registry: https://registry.npmjs.org/, tarball: https://registry.npmjs.org/etag/-/etag-1.8.1.tgz}
@@ -7871,13 +7851,6 @@ packages:
     version: 1.0.1
     dev: true
 
-  registry.npmjs.org/minimatch@3.0.4:
-    resolution: {integrity: sha1-UWbihkV/AzBgZL5Ul+jbsMPTIIM=, registry: https://registry.npmjs.org/, tarball: https://registry.npmjs.org/minimatch/-/minimatch-3.0.4.tgz}
-    name: minimatch
-    version: 3.0.4
-    dependencies:
-      brace-expansion: registry.npmjs.org/brace-expansion@1.1.11
-    dev: true
 
   registry.npmjs.org/minimist@1.2.5:
     resolution: {integrity: sha1-Z9ZgFLZqaoqqDAg8X9WN9OTpdgI=, registry: https://registry.npmjs.org/, tarball: https://registry.npmjs.org/minimist/-/minimist-1.2.5.tgz}
@@ -8418,11 +8391,6 @@ packages:
     engines: {node: '>=4'}
     dev: true
 
-  registry.npmjs.org/path-parse@1.0.7:
-    resolution: {integrity: sha1-+8EUtgykKzDZ2vWFjkvWi77bZzU=, registry: https://registry.npmjs.org/, tarball: https://registry.npmjs.org/path-parse/-/path-parse-1.0.7.tgz}
-    name: path-parse
-    version: 1.0.7
-    dev: true
 
   registry.npmjs.org/path-to-regexp@0.1.7:
     resolution: {integrity: sha1-32BBeABfUi8V60SQ5yR6G/qmf4w=, registry: https://registry.npmjs.org/, tarball: https://registry.npmjs.org/path-to-regexp/-/path-to-regexp-0.1.7.tgz}
@@ -9280,14 +9248,6 @@ packages:
     engines: {node: '>=4'}
     dev: true
 
-  registry.npmjs.org/resolve@1.20.0:
-    resolution: {integrity: sha1-YpoBP7P3B1XW8LeTXMHCxTeLGXU=, registry: https://registry.npmjs.org/, tarball: https://registry.npmjs.org/resolve/-/resolve-1.20.0.tgz}
-    name: resolve
-    version: 1.20.0
-    dependencies:
-      is-core-module: registry.npmmirror.com/is-core-module@2.8.0
-      path-parse: registry.npmjs.org/path-parse@1.0.7
-    dev: true
 
   registry.npmjs.org/responselike@1.0.2:
     resolution: {integrity: sha1-kYcg7ztjHFZCvgaPFa3lpG9Loec=, registry: https://registry.npmjs.org/, tarball: https://registry.npmjs.org/responselike/-/responselike-1.0.2.tgz}
@@ -9463,12 +9423,6 @@ packages:
     hasBin: true
     dev: true
 
-  registry.npmjs.org/semver@6.3.0:
-    resolution: {integrity: sha1-7gpkyK9ejO6mdoexM3YeG+y9HT0=, registry: https://registry.npmjs.org/, tarball: https://registry.npmjs.org/semver/-/semver-6.3.0.tgz}
-    name: semver
-    version: 6.3.0
-    hasBin: true
-    dev: true
 
   registry.npmjs.org/semver@7.0.0:
     resolution: {integrity: sha1-XzyjV2HkfgWyBsba/yz4FPAxa44=, registry: https://registry.npmjs.org/, tarball: https://registry.npmjs.org/semver/-/semver-7.0.0.tgz}
@@ -9477,15 +9431,6 @@ packages:
     hasBin: true
     dev: true
 
-  registry.npmjs.org/semver@7.3.5:
-    resolution: {integrity: sha1-C2Ich5NI2JmOSw5L6Us/EuYBjvc=, registry: https://registry.npmjs.org/, tarball: https://registry.npmjs.org/semver/-/semver-7.3.5.tgz}
-    name: semver
-    version: 7.3.5
-    engines: {node: '>=10'}
-    hasBin: true
-    dependencies:
-      lru-cache: registry.npmjs.org/lru-cache@6.0.0
-    dev: true
 
   registry.npmjs.org/send@0.17.1(supports-color@6.1.0):
     resolution: {integrity: sha1-wdiwWfeQD3Rm3Uk4vcROEd2zdsg=, registry: https://registry.npmjs.org/, tarball: https://registry.npmjs.org/send/-/send-0.17.1.tgz}
@@ -10014,14 +9959,6 @@ packages:
       has-flag: registry.npmjs.org/has-flag@3.0.0
     dev: true
 
-  registry.npmjs.org/supports-color@7.2.0:
-    resolution: {integrity: sha1-G33NyzK4E4gBs+R4umpRyqiWSNo=, registry: https://registry.npmjs.org/, tarball: https://registry.npmjs.org/supports-color/-/supports-color-7.2.0.tgz}
-    name: supports-color
-    version: 7.2.0
-    engines: {node: '>=8'}
-    dependencies:
-      has-flag: registry.npmjs.org/has-flag@4.0.0
-    dev: true
 
   registry.npmjs.org/svg-tags@1.0.0:
     resolution: {integrity: sha1-WPcc7jvVGbWdSyqEO2x95krAR2Q=, registry: https://registry.npmjs.org/, tarball: https://registry.npmjs.org/svg-tags/-/svg-tags-1.0.0.tgz}
@@ -10049,11 +9986,6 @@ packages:
       source-map-support: registry.npmjs.org/source-map-support@0.5.20
     dev: true
 
-  registry.npmjs.org/text-table@0.2.0:
-    resolution: {integrity: sha1-f17oI66AUgfACvLfSoTsP8+lcLQ=, registry: https://registry.npmjs.org/, tarball: https://registry.npmjs.org/text-table/-/text-table-0.2.0.tgz}
-    name: text-table
-    version: 0.2.0
-    dev: true
 
   registry.npmjs.org/through2@2.0.5:
     resolution: {integrity: sha1-AcHjnrMdB8t9A6lqcIIyYLIxMs0=, registry: https://registry.npmjs.org/, tarball: https://registry.npmjs.org/through2/-/through2-2.0.5.tgz}
