@@ -72,7 +72,7 @@
 
 ## API 文档
 
-### [Btn](https://github.com/uiv-lib/uiv/blob/1.x/src/components/button/Btn.js)
+### [Btn](https://github.com/wxsms/uiv/blob/1.x/src/components/button/Btn.js)
 
 #### 参数
 

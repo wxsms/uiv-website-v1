@@ -75,9 +75,9 @@ module.exports = {
     logo: '/assets/image/logo.png',
     lastUpdated: 'Last Updated',
     smoothScroll: true,
-    repo: 'uiv-lib/uiv',
+    repo: 'wxsms/uiv',
     repoLabel: 'GitHub',
-    docsRepo: 'uiv-lib/uiv',
+    docsRepo: 'wxsms/uiv',
     docsDir: 'docs',
     docsBranch: 'dev',
     editLinks: true,
@@ -88,7 +88,7 @@ module.exports = {
       { text: 'Components', link: '/components/' },
       { text: 'Funding', link: '/funding/' },
       { text: '0.x', link: 'https://wxsms.github.io/uiv-website-v0/' },
-      { text: 'Changelog', link: 'https://github.com/uiv-lib/uiv/releases' },
+      { text: 'Changelog', link: 'https://github.com/wxsms/uiv/releases' },
     ],
     sidebar: [
       {
@@ -184,7 +184,7 @@ module.exports = {
           { text: '组件', link: '/zh/components/' },
           { text: '赞助', link: '/zh/funding/' },
           { text: '0.x', link: 'https://wxsms.github.io/uiv-website-v0/' },
-          { text: '更新日志', link: 'https://github.com/uiv-lib/uiv/releases' },
+          { text: '更新日志', link: 'https://github.com/wxsms/uiv/releases' },
         ],
         sidebar: [
           {

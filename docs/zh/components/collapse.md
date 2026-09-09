@@ -18,7 +18,7 @@
 
 ## API 文档
 
-### [Collapse](https://github.com/uiv-lib/uiv/blob/1.x/src/components/collapse/Collapse.vue)
+### [Collapse](https://github.com/wxsms/uiv/blob/1.x/src/components/collapse/Collapse.vue)
 
 #### 参数
 
