@@ -11,7 +11,7 @@
   "bugs": {
     "url": "https://github.com/uiv-lib/uiv/issues"
   },
-  "homepage": "https://uiv-v1.wxsm.space",
+  "homepage": "https://wxsms.github.io/uiv-website-v1/",
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",

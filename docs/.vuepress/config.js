@@ -1,4 +1,5 @@
 module.exports = {
+  base: '/uiv-website-v1/',
   description: 'Bootstrap 3 components implemented by Vue 2.',
   head: [
     [
@@ -29,7 +30,7 @@ module.exports = {
       ga: 'UA-102731925-2',
     },
     sitemap: {
-      hostname: 'https://uiv-v1.wxsm.space',
+      hostname: 'https://wxsms.github.io/uiv-website-v1',
       dateFormatter: (time) => {
         // chinese date won't work here
         try {
@@ -86,7 +87,7 @@ module.exports = {
       { text: 'Usage', link: '/usage/' },
       { text: 'Components', link: '/components/' },
       { text: 'Funding', link: '/funding/' },
-      { text: '0.x', link: 'https://uiv-v0.wxsm.space' },
+      { text: '0.x', link: 'https://wxsms.github.io/uiv-website-v0/' },
       { text: 'Changelog', link: 'https://github.com/uiv-lib/uiv/releases' },
     ],
     sidebar: [
@@ -182,7 +183,7 @@ module.exports = {
           { text: '使用教程', link: '/zh/usage/' },
           { text: '组件', link: '/zh/components/' },
           { text: '赞助', link: '/zh/funding/' },
-          { text: '0.x', link: 'https://uiv-v0.wxsm.space' },
+          { text: '0.x', link: 'https://wxsms.github.io/uiv-website-v0/' },
           { text: '更新日志', link: 'https://github.com/uiv-lib/uiv/releases' },
         ],
         sidebar: [
