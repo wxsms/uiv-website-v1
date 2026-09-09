@@ -86,7 +86,7 @@ In case you need to validate something inside a tab before it being switch, a sa
 
 ## API Reference
 
-### [Tabs](https://github.com/uiv-lib/uiv/blob/1.x/src/components/tabs/Tabs.vue)
+### [Tabs](https://github.com/wxsms/uiv/blob/1.x/src/components/tabs/Tabs.vue)
 
 #### Props
 
@@ -115,7 +115,7 @@ Name            | Params                   | Description
 `before-change` | indexFrom, indexTo, done | Trigger before active tab change. Calling `done()` will allow the change. Calling `done(err)`, where `err` is any value, will prevent it. Note that this callback will only trigger on tab clicking.
 `changed`       | index                    | Trigger after tab changed and transition finished, with the active index.
 
-### [Tab](https://github.com/uiv-lib/uiv/blob/1.x/src/components/tabs/Tab.vue)
+### [Tab](https://github.com/wxsms/uiv/blob/1.x/src/components/tabs/Tab.vue)
 
 #### Props
 

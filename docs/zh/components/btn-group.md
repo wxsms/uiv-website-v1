@@ -62,7 +62,7 @@
 
 ## API 文档
 
-### [BtnGroup](https://github.com/uiv-lib/uiv/blob/1.x/src/components/button/BtnGroup.js)
+### [BtnGroup](https://github.com/wxsms/uiv/blob/1.x/src/components/button/BtnGroup.js)
 
 #### 参数
 
@@ -78,6 +78,6 @@
 --------- | -----------------------
 `default` | 按钮组体
 
-### [BtnToolbar](https://github.com/uiv-lib/uiv/blob/1.x/src/components/button/BtnToolbar.js)
+### [BtnToolbar](https://github.com/wxsms/uiv/blob/1.x/src/components/button/BtnToolbar.js)
 
 该组件没有参数。
