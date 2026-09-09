@@ -5,7 +5,7 @@
 此项目由 [JetBrains](https://www.jetbrains.com/?from=uiv) 特别赞助。
 
 <p>
-<a href="https://www.jetbrains.com/?from=uiv"><img width="250" src="/assets/image/funding/jetbrains-logo.png" alt="jetbrains-logo.png"></a>
+<a href="https://www.jetbrains.com/?from=uiv"><img width="250" src="/uiv-website-v1/assets/image/funding/jetbrains-logo.png" alt="jetbrains-logo.png"></a>
 </p>
 
 ## 赞助
@@ -19,6 +19,6 @@
 ### 支付宝 & 微信支付
 
 <p>
-<img width="250" src="/assets/image/funding/alipay.png" alt="alipay.png">
-<img width="250" src="/assets/image/funding/wxpay.png" alt="wxpay.png">
+<img width="250" src="/uiv-website-v1/assets/image/funding/alipay.png" alt="alipay.png">
+<img width="250" src="/uiv-website-v1/assets/image/funding/wxpay.png" alt="wxpay.png">
 </p>
