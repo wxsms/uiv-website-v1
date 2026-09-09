@@ -1,5 +1,8 @@
 module.exports = {
-  base: '/uiv-website-v1/',
+  // Sub-path base is only needed when deploying to GitHub Pages; it is
+  // injected via VUEPRESS_BASE in the deploy workflow. Local dev/build
+  // defaults to '/'.
+  base: process.env.VUEPRESS_BASE || '/',
   description: 'Bootstrap 3 components implemented by Vue 2.',
   head: [
     [
