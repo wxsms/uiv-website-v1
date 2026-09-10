@@ -13,7 +13,7 @@ jobs:
         with:
           node-version: 16
           registry-url: 'https://registry.npmjs.org'
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
       # pnpm 8 matches lockfileVersion 6.0; newer majors cannot read it
       - uses: pnpm/action-setup@v4
         with:
