@@ -36,7 +36,7 @@
     "@vuepress/plugin-active-header-links": "1.9.10",
     "@vuepress/plugin-google-analytics": "1.9.10",
     "less": "4.9.1",
-    "less-loader": "7.3.0",
+    "less-loader": "13.0.0",
     "vuepress": "1.9.10",
     "vuepress-plugin-redirect": "1.2.5",
     "vuepress-plugin-sitemap": "2.3.1",
