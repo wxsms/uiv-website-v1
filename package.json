@@ -24,7 +24,7 @@
     "cross-env": "10.1.0",
     "es6-object-assign": "1.1.0",
     "eslint": "10.9.1",
-    "eslint-config-prettier": "8.10.2",
+    "eslint-config-prettier": "10.1.8",
     "eslint-plugin-html": "8.2.0",
     "eslint-plugin-import": "2.32.0",
     "eslint-plugin-n": "18.3.0",
