@@ -1,7 +1,8 @@
 {
   "extends": [
-    "config:base"
+    "config:recommended"
   ],
+  "minimumReleaseAge": "7 days",
   "packageRules": [
     {
       "matchUpdateTypes": [
